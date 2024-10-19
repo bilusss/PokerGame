@@ -6,12 +6,17 @@
 //
 
 import SwiftUI
+import MultipeerConnectivity  // Import MultipeerConnectivity
 
 @main
 struct PokerGameApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            if UIDevice.current.userInterfaceIdiom == .pad {
+                GameHostView()  // Wyświetl widok hosta na iPadzie
+            } else {
+                PlayerView()    // Wyświetl widok gracza na iPhonie
+            }
         }
     }
 }
