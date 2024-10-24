@@ -34,9 +34,9 @@ cd PokerGame
 ### Phase 1: Core Functionality
 ✅ Create the project in Xcode.\
 ✅ Implement Multipeer Connectivity for device communication on the local network.\
-✅ Basic interface for player hands on iPhones.\
-✅ Main iPad screen acting as the poker table.\
-✅ Core game logic – dealing cards, betting, and game phases for Texas Hold'em.
+☐ Basic interface for player hands on iPhones.\
+☐ Main iPad screen acting as the poker table.\
+☐ Core game logic – dealing cards, betting, and game phases for Texas Hold'em.
 ### Phase 2: UI/UX Improvements
 ☐ Add animations to enhance gameplay experience (dealing cards, placing bets, winning).\
 ☐ Improve icons and layout to reflect a casino-like atmosphere.\
