@@ -55,5 +55,3 @@ cd PokerGame
 ☐ Set up an Apple Developer account.\
 ☐ Prepare marketing materials for the App Store (screenshots, description, etc.).\
 ☐ Submit the app for review and publish it on the App Store.
-
-#### This version of the README.md focuses on the key aspects of your poker app and its roadmap. It will help guide you through the development process and keep everything organized for the final release. Let me know if you need any adjustments!
