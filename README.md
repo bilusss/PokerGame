@@ -42,8 +42,6 @@ cd PokerGame
 ☐ Improve icons and layout to reflect a casino-like atmosphere.\
 ☐ Make the UI responsive to various iPhone and iPad screen sizes.
 ### Phase 3: Additional Features
-☐ Implement a chip management and bank system.\
-☐ Add an observer mode (allowing players to watch without participating).\
 ☐ Add an offline mode with AI opponents.\
 ☐ Include a detailed game history feature.
 ### Phase 4: Testing and Optimization
