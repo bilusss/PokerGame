@@ -17,19 +17,6 @@ The development environment.
 Used for peer-to-peer device communication.
 #### UIKit / SwiftUI:
 For building the user interface.
-## Installation
-### Clone the repository:
-#### 1. Copy code
-```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd PokerGame
-```
-#### 2. Open the project in Xcode:
-
-⸰ Open the .xcodeproj or .xcworkspace file in Xcode.
-#### 3. Run the project:
-
-⸰ Select an iPhone simulator or connect your device, then click "Run" in Xcode.
 ## Roadmap
 ### Phase 1: Core Functionality
 ✅ Create the project in Xcode.\
